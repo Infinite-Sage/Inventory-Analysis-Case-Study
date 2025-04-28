@@ -1,4 +1,4 @@
-# Retail Inventory Analysis with Tableau
+# Retail Inventory Analysis Dashboard in Tableau
 
 ### Project Overview
 
@@ -78,7 +78,7 @@ Dashboards & Visuals
     Revenue Comparison 2020 vs. 2021
 
 
-(See /images folder for full screenshots.)
+(See /screenshots folder for full screenshots.)
 
 Project Files
 
@@ -103,10 +103,18 @@ Through this analysis, procurement and inventory teams can make smarter decision
 
 ***** This project uses a simulated retail inventory dataset for learning and demonstration purposes.
 
-### Key Metrics Tracked
-Metric	Description
-Revenue 2020 vs. 2021	Product-level revenue growth comparison
-Inventory Turnover Rate	Efficiency of inventory movement
-ABC Classification	Product revenue contribution analysis
-Category Performance	Revenue and turnover by product category
-Geographic Performance	Orders by country
+## 📈 Key Metrics Tracked
+
+| Metric                    | Description                                           |
+|----------------------------|-------------------------------------------------------|
+| Revenue 2020 vs. 2021      | Product-level revenue growth comparison              |
+| Inventory Turnover Rate    | Efficiency of inventory movement                     |
+| ABC Classification         | Product revenue contribution analysis                |
+| Category Performance       | Revenue and turnover by product category             |
+| Geographic Performance     | Orders by country                                     |
+
+## 🛠️ How to Open the Project
+
+1. Download `Inventory Analysis.twbx` from this repository.
+2. Open it using Tableau Desktop or Tableau Public.
+3. Explore the dashboards and interact with filters to view insights across categories and countries.
