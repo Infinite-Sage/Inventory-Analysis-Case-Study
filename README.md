@@ -63,13 +63,13 @@ Tools Used
 Dashboards & Visuals
 
 ### ABC Revenue Distribution 2021
-![ABC Revenue](screenshots/abc_revenue_class_a_products.png)
+![ABC Revenue](screenshots/ABC%20revenue%20Class%20A%20Products.png)
 
 ### Category Revenue and Inventory Turnover 2021
-![Category Revenue and Inventory Turnover](screenshots/category_revenue_and_inventory_turnover_2021_treemap.png)
+![Category Revenue and Inventory Turnover](screenshots/Category%20Revenue%20and%20Category%20inventory%20turnover%202021%20treemap.png)
 
 ### Country Breakdown of Orders 2021
-![Country Breakdown](screenshots/country_breakdown_by_product_class.png)
+![Country Breakdown](screenshots/Country%20breakdown%20by%20product%20class.png)
 
     Category Inventory Turnover Treemap 2021
 
