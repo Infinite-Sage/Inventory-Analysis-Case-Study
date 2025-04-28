@@ -2,10 +2,10 @@
 
 ### Project Overview
 
-This project analyzes a retail inventory dataset covering sales and stock movements from 2020 to 2022.
-Using Tableau, I performed a full exploratory analysis and developed interactive dashboards to help optimize inventory purchasing decisions, reduce dead stock, and improve category-level performance.
+This project analyzes a retail company's inventory dataset across different product categories and countries using Tableau dashboards.
+The objective is to optimize inventory management, identify top-performing product classes, and guide future purchasing strategies.
 
-The analysis focuses on revenue generation by product class (ABC analysis), inventory turnover efficiency, country-level order distribution, and category performance.
+The dataset is fictional but simulates a real-world retail inventory scenario.
 
 ### Business Objective
 
@@ -32,18 +32,33 @@ Tools Used
 
 ### Key Insights
 
-   1. Class A items contributed over 70% of total revenue, but Class B items showed similar turnover efficiency.
+   1. Inventory Turnover:
+      High-value (Class A) products have higher turnover rates, suggesting efficient stock movement.
+      However, some Class B products have turnover rates close to Class A, indicating opportunities to restock and promote them.
     → Recommendation: Increase Class B inventory stock levels for potential revenue growth.
 
-   2. Office & School category had strong turnover but underperformed in stock allocation.
-    → Recommendation: Adjust purchasing strategy to capitalize on faster-moving categories.
+   2. Revenue Concentration:
+      Class A products contributed the majority of 2021 revenue (over 300K USD), heavily outperforming Class B and C items.
 
-   3. Home Accessories and Decoration drove the majority of revenue but showed moderate turnover rates, suggesting a need to review inventory levels carefully.
+   3. Category Breakdown:
 
-   4. USA and Europe were the dominant regions for order volumes.
+     -  Home Accessories and Decoration dominate revenue generation.
+
+     -  Office & School category shows high inventory turnover but low revenue — needs pricing or marketing review.
+
+   4. Home Accessories and Decoration drove the majority of revenue but showed moderate turnover rates, suggesting a need to review inventory levels carefully.
+
+   5. Country Breakdown:
+      Orders mainly come from the USA, Canada, and several European countries, suggesting priority regions for inventory focus.
     → Recommendation: Prioritize stocking strategies aligned with these key markets.
 
-   5. Product-Level Analysis showed that top sellers like "Doughnut Lip Gloss" almost doubled their revenue share from 2020 to 2021, indicating strong market trends.
+   6. COGS & Inventory Stock Changes:
+      Inventory sales shifted slightly from Home Accessories to Toys & Edibles between 2020 and 2021.
+      Jewelry shows the least stock movement and may require reassessment.
+      
+   7. Revenue Year-over-Year Comparison:
+      Certain products (like Doughnut Lip Gloss and Grow a Flytrap Kit) showed strong YoY revenue gains and should be prioritized.
+      Product-Level Analysis showed that top sellers like "Doughnut Lip Gloss" almost doubled their revenue share from 2020 to 2021, indicating strong market trends.
 
 Dashboards & Visuals
 
@@ -82,7 +97,7 @@ Through this analysis, procurement and inventory teams can make smarter decision
 
     Align purchasing strategy geographically toward high-demand countries like the USA and European regions.
 
-
+***** This project uses a simulated retail inventory dataset for learning and demonstration purposes.
 
 ### Key Metrics Tracked
 Metric	Description
